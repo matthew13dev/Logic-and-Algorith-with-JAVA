@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class Cap10_Exercise02
 {
-    static final String FILE_DIRETORY = "/tmp/task_list.txt";
+    static final String FILE_DIRETORY = "/tmp/todo_list.txt";
     static final String END_APPLICATION = "QUIT";
     public static void main(String[] args) throws IOException
     {
