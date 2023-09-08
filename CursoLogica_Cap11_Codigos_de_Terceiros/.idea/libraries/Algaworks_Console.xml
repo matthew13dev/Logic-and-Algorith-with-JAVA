@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Algaworks_Console">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Algaworks_Console/out/artifacts/Algaworks_Console_jar/Algaworks_Console.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Algaworks_Console/out/artifacts/Algaworks_Console_jar/Algaworks_Console.jar!/" />
+    </SOURCES>
+  </library>
+</component>

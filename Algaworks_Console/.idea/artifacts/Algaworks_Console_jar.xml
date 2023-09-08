@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Algaworks_Console:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Algaworks_Console_jar</output-path>
+    <root id="archive" name="Algaworks_Console.jar">
+      <element id="module-output" name="Algaworks_Console" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Algaworks_Console:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a9b6c56-c8f7-4183-b0f1-a25789b5c7f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/activation_1_1_1__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/commons_email_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/commons_email_1_5__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/javax_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/javax_mail_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/javax_mail__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Algaworks_Console_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algaworks_Console.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Console/Interactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso JAVA AlgaWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap03_VariaveisEConstantes/CursoLogica_Cap03_VariaveisEConstantes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap04_Operadores/CursoLogica_Cap04_Operadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap05_EstruturaDeDecisao/CursoLogica_Cap05_EstruturaDeDecisao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap06_Interacao/CursoLogica_Cap06_Interacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap07_Vetores/CursoLogica_Cap07_Vetores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap08_Metodos/CursoLogica_Cap08_Metodos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap09_POO/CursoLogica_Cap09_POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/CursoLogica_Cap10_Leitura_Escrita_Dados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Escrita_Arquivos/Cap10_Escrita_Arquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Exercise01/Cap10_Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Exercise01/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Exercise02/Cap10_Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Exercise02/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap10_Leitura_Escrita_Dados/src/Cap10_Leitura_Arquivos/Cap10_Leitura_Arquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/libraries/Algaworks_Console.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/libraries/jar_files.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/CursoLogica_Cap11_Codigos_de_Terceiros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/docs/jar_files.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/lib/commons-email-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/lib/javax.mail-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Cap11_Exercise01/Cap11_Exercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Cap11_Exercise01/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Cap11_Exercise01/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Cap11_Library_Email/Cap11_Usando_Lib_Email.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Cap11_Library_Email/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/out/production/CursoLogica_Cap11_Codigos_de_Terceiros/Main_Library/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Cap11_Exercise01/Cap11_Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Cap11_Exercise01/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Cap11_Exercise01/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Cap11_Library_Email/Cap11_Usando_Lib_Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Cap11_Library_Email/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoLogica_Cap11_Codigos_de_Terceiros/src/Main_Library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Curso JAVA AlgaWorks/Curso JAVA AlgaWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Curso JAVA AlgaWorks/CursoLogicaCap07Vetores/CursoLogicaCap07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Curso JAVA AlgaWorks/CursoLogicaCap08Metodos/CursoLogicaCap08Metodos.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2V5xhBGnTM2rsopgnHgxuQBoxEs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/matheus013/Dev/IdeaProjects/Curso JAVA AlgaWorks/CursoLogica_Cap11_Codigos_de_Terceiros&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9b6c56-c8f7-4183-b0f1-a25789b5c7f1" name="Changes" comment="" />
+      <created>1694139862750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694139862750</updated>
+    </task>
+    <servers />
+  </component>
+</project>
